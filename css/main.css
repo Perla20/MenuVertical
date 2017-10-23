@@ -33,14 +33,14 @@ ul li:first-child{
 
   background: #f9a91a;
 }
-ul li: first-child a{
-  color: #000;
+ul li:first-child a{
+  color:#000;
 }
-ul li: first-child a:hover{
+ul li:first-child a:hover{
 
-  color: #fff;
+  color:#fff;
 }
-ul li: first-child a:active{
+ul li:first-child a:active{
 
-  color: #000;
+  color:#000;
 }
